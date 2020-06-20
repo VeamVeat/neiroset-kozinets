@@ -274,7 +274,7 @@ namespace neirosetKozine
 			}
 		}
 
-		//Находим минимальное значение 
+		///Находим минимальное значение 
 		void MinimumVectorZ()
 		{
 			LineVektorZarray();
